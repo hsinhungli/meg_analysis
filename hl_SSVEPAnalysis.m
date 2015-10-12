@@ -3,7 +3,7 @@ addpath(genpath('/users2/purpadmin/Hsin/meg_utils'));
 addpath(genpath('/users2/purpadmin/Hsin/myFunc'))
 ft_defaults
 
-%% Set data to analyze
+%% %Set data to analyze
 subjid    = 'HK';
 exptDir   = '/Volumes/DRIVE1/DATA/hsin/MEG/BR';
 fileBase  = 'R0978_BR_8.6.15';
